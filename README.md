@@ -1,6 +1,6 @@
 # Brew Haven Coffee Website
-
-## Overview
+<img width="1024" height="1536" alt="home page image " src="https://github.com/user-attachments/assets/39b1d85c-1676-44b1-a865-b481a7f4ed6c" />
+ Overview
 A modern coffee shop website designed to showcase Brew Haven Coffee.  
 The site features a cozy, welcoming design with earthy tones and includes pages such as Home, About Us, Menu, Gallery, and Contact.  
 It highlights the shop’s mission to serve fresh brews, showcases a variety of coffee and snacks, and provides easy navigation for visitors.  
@@ -22,18 +22,17 @@ Built using no-code/AI-powered web design tools, the website is mobile-friendly 
 
 
 ### Home Page
-(images/home.png)
 <img width="1024" height="1536" alt="home page image " src="https://github.com/user-attachments/assets/39b1d85c-1676-44b1-a865-b481a7f4ed6c" />
 
 ### About Us Page
-(images/about.png)<img width="1024" height="1536" alt="about us image" src="https://github.com/user-attachments/assets/21cf8abb-c05f-49e7-9898-fa9bf0070116" />
+<img width="1024" height="1536" alt="about us image" src="https://github.com/user-attachments/assets/21cf8abb-c05f-49e7-9898-fa9bf0070116" />
 
 ### Menu Page
-![Menu Page](images/menu.png)<img width="1024" height="1536" alt="menu image" src="https://github.com/user-attachments/assets/28021ee8-2d67-412b-843a-cbff1c91a06f" />
+![Uploading menu page.png…]()
 
 
 ### Contact Page
-![Contact Page](images/contact.png)<img width="1024" height="1536" alt="contact image" src="https://github.com/user-attachments/assets/8c1827ca-1ca7-44c0-8eab-dc0e7b6dfdc7" />
+<img width="1024" height="1536" alt="contact image" src="https://github.com/user-attachments/assets/8c1827ca-1ca7-44c0-8eab-dc0e7b6dfdc7" />
 
 
 ## Deployment
