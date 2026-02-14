@@ -20,17 +20,21 @@ Built using no-code/AI-powered web design tools, the website is mobile-friendly 
 
 ## Screenshots
 
+
 ### Home Page
-![Home Page](images/home.png)
+(images/home.png)
+<img width="1024" height="1536" alt="home page image " src="https://github.com/user-attachments/assets/39b1d85c-1676-44b1-a865-b481a7f4ed6c" />
 
 ### About Us Page
-![About Us](images/about.png)
+(images/about.png)<img width="1024" height="1536" alt="about us image" src="https://github.com/user-attachments/assets/21cf8abb-c05f-49e7-9898-fa9bf0070116" />
 
 ### Menu Page
-![Menu Page](images/menu.png)
+![Menu Page](images/menu.png)<img width="1024" height="1536" alt="menu image" src="https://github.com/user-attachments/assets/28021ee8-2d67-412b-843a-cbff1c91a06f" />
+
 
 ### Contact Page
-![Contact Page](images/contact.png)
+![Contact Page](images/contact.png)<img width="1024" height="1536" alt="contact image" src="https://github.com/user-attachments/assets/8c1827ca-1ca7-44c0-8eab-dc0e7b6dfdc7" />
+
 
 ## Deployment
 Live site: [https://Kevin.github.io/brew-haven-site](https://Kevin.github.io/brew-haven-site)
