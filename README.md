@@ -1,3 +1,4 @@
+
 # Brew Haven Coffee Website
 <img width="1024" height="1536" alt="home page image " src="https://github.com/user-attachments/assets/39b1d85c-1676-44b1-a865-b481a7f4ed6c" />
  Overview
@@ -28,7 +29,7 @@ Built using no-code/AI-powered web design tools, the website is mobile-friendly 
 <img width="1024" height="1536" alt="about us image" src="https://github.com/user-attachments/assets/21cf8abb-c05f-49e7-9898-fa9bf0070116" />
 
 ### Menu Page
-![Uploading menu page.png…]()
+<img width="1024" height="1536" alt="menu page" src="https://github.com/user-attachments/assets/8c85905d-237f-4c48-a380-93fb15d4224a" />
 
 
 ### Contact Page
