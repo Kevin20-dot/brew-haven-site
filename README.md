@@ -33,7 +33,7 @@ Built using no-code/AI-powered web design tools, the website is mobile-friendly 
 ![Contact Page](images/contact.png)
 
 ## Deployment
-Live site: [https://yourusername.github.io/brew-haven-site](https://yourusername.github.io/brew-haven-site)
+Live site: [https://Kevin.github.io/brew-haven-site](https://Kevin.github.io/brew-haven-site)
 
 ## Contact
-Created by [Your Name]
+Created by [Kevin Biju]
